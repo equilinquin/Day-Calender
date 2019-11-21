@@ -7,4 +7,11 @@ console.log(months[d.getMonth()])
 console.log(d.getDate())
 console.log(d.getFullYear())
 
-var container = $(".container")
+$("#saveBtn").click(function(){
+    var event = $("textarea").text();
+    localStorage.setItem("addEvent", event);
+
+
+});
+
+$("textarea").html = localStorage.getItem("addevent");
