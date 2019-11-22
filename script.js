@@ -19,17 +19,6 @@ $(".saveBtn").click(function(event) {
     getEvent(); 
 });
 
-// $("#btn9").click(function(event){
-//     event.preventDefault();
-
-
-//     var addEvent9 = $("#9am").val();
-//     localStorage.setItem("addEvent9", addEvent9);
-//     console.log(addEvent9);
-//     getEvent9();
-
-// });
-
 getEvent();
 function getEvent () {
     var savedEvent9 = localStorage.getItem(eventArr[0]);
