@@ -11,3 +11,5 @@ I used a lot of jQuery elements in javascript to shorthand a lot of assingments.
 The current time does not change the text area color when the page is live.  It changes when it refreshes.
 
 Everything works according to the assignment guidelines that were followed into making this application.
+
+Link to deployable site: https://equilinquin.github.io/Day-Calender/
