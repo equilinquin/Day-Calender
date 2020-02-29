@@ -25,4 +25,4 @@ This application is a simple day calendar to help mark appointments or events th
 
 ## Image of deployed page
 
-![Sample Image](.Day-Calendar.png)
+![Sample Image](./images/Day-Calendar.png)
