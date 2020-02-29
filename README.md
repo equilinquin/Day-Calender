@@ -17,7 +17,7 @@ This application is a simple day calendar to help mark appointments or events th
 
 -HTML
 
--CSS
+-Bootstrap CSS
 
 -Javascript
 
