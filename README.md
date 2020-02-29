@@ -1,15 +1,28 @@
 # Day-Calender
 
+## Description
+
 This application is a simple day calendar to help mark appointments or events through out the current day.  On the top of the page, you will see the title and below it the current day.
 
-If you want to add an event, click into the "Add Event" text area at the timeslot that you want.  Then click the save button on the right that is colored blue.  The event will then save and will remain on the page even when you refresh the page.
+## Deployment
+-Clone repo onto your machine and open `index.html`, or go to the live link here: https://equilinquin.github.io/Day-Calender/
 
-Gray represents time that has already passed.  Red represents the current hour of the day.  Green represents future times.  The text area will change color when the hour passes.
+-To add event, click into the "Add Event" text area at the timeslot wanted.
 
-I used a lot of jQuery elements in javascript to shorthand a lot of assingments.  I also used the moment() function to generate the current time to align with the time slots.  The Day() function was also used to display current day.
+-Click the save button that's colored blue and the event will save, even on refresh.
 
-The current time does not change the text area color when the page is live.  It changes when it refreshes.
+-Once the hour passes, the entire block row will turn gray.  Red represents the current hour, green represents future times.
 
-Everything works according to the assignment guidelines that were followed into making this application.
+## Built with
 
-Link to deployable site: https://equilinquin.github.io/Day-Calender/
+-HTML
+
+-CSS
+
+-Javascript
+
+-jQuery
+
+## Image of deployed page
+
+![Sample Image](.Day-Calendar.png)
